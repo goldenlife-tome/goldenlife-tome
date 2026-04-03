@@ -1,15 +1,5 @@
 ## Hi there 👋
 
-<!--
-**goldenlife-tome/goldenlife-tome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for h# Hello, thanks for visiting my profile, I'm an AI & Full Stack Developer.
-
 Hello! I'm an AI Engineer & Full-Stack Developer with over 5 years of experience building intelligent automation systems, LLM-orchestrated workflows, and production-ready software solutions. I specialize in AI agent development, Retrieval-Augmented Generation (RAG) pipelines, deterministic LLM workflows, and automation platforms like n8n. My passion lies at the intersection of traditional software engineering and modern AI orchestration—creating systems that are not only intelligent but also robust, explainable, and scalable.
 
 Professionally, I've led development of full-stack applications, built QA automation frameworks that reduced manual testing time, and designed multi-step orchestration systems using webhook-driven integrations. At Gradient Labs, I worked on autonomous agents, RAG pipelines, and observability tooling for AI execution workflows. I've also delivered AI-driven automation solutions for startups and small businesses as a freelance developer, helping them reduce operational overhead and accelerate product validation cycles.
